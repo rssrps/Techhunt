@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "392095217225",
+    "firebase_url": "https://techhunt-44031.firebaseio.com",
+    "project_id": "techhunt-44031",
+    "storage_bucket": "techhunt-44031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392095217225:android:124883741a175fb7",
+        "android_client_info": {
+          "package_name": "techhunt.in.techhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392095217225-9pfo5g8rh3g4bj0mk15q0vmelvihtdb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techhunt.in.techhunt",
+            "certificate_hash": "02092e01e1114c18e6aaaa4bd4066260e2576d15"
+          }
+        },
+        {
+          "client_id": "392095217225-3qu0gc5to56dh5ernkfo0mhrnulh36gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDscNJJU-8kZ0tQovxkD44ZlVMvYhDsoIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392095217225-3qu0gc5to56dh5ernkfo0mhrnulh36gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
